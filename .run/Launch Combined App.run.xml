@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Launch Combined App" type="CompoundRunConfigurationType">
+    <toRun name="ngafid [compile,exec:java...]" type="MavenRunConfiguration" />
+    <toRun name="Run NPM" type="ShConfigurationType" />
+    <method v="2" />
+  </configuration>
+</component>
